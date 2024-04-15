@@ -1,6 +1,6 @@
 <!-- Intro  -->
 <h3>
-        <samp>&gt; Hey There!, I am
+        <samp>&gt; 🙏 Namastey!, I am
                 <b><a target="_blank" href="https://alsiam.com">Rasel Bajracharya</a></b>
         </samp>
 </h3>
