@@ -1,5 +1,5 @@
 <!-- Intro  -->
-<h3 align="center">
+<h3>
         <samp>&gt; Hey There!, I am
                 <b><a target="_blank" href="https://alsiam.com">Rasel Bajracharya</a></b>
         </samp>
