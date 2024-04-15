@@ -7,8 +7,8 @@
 
 <p>
   <samp>
-    🌱 I’m currently learning Flutter & Dart | React <br>
-    👯 I’m looking to collaborate on Mobile App Projects 📱 and Web Projects 🌐 ✌️ <br>
+    🌱 Currently learning Flutter & Dart | React <br>
+    👯 Looking to collaborate on Mobile App Projects 📱 and Web Projects 🌐 ✌️ <br>
     💬 Ask me about Flutter, Dart, SQL, React, Firebase API <br><br>
     <a href="https://linkedin.com/in/al-siam" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
