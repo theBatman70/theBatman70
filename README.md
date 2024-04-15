@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3>
         <samp>&gt; 🙏 Namastey! I am
-                <b><a target="_blank" href="">Rasel Bajracharya</a></b> &lt;
+                <b><a target="_blank" href="https://www.linkedin.com/in/rasel-bajracharya-903baa285/">Rasel Bajracharya</a></b> &lt;
         </samp>
 </h3>
 
@@ -22,7 +22,7 @@
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
     <br><br>
 💬 Ask me about <i>Flutter, Dart, SQL, React, Firebase API</i><br><br>
-    <a href="https://linkedin.com/in/al-siam" target="_blank">
+    <a href="https://www.linkedin.com/in/rasel-bajracharya-903baa285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
    </a>
  </samp>
