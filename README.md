@@ -1,7 +1,7 @@
 <!-- Intro  -->
 <h3>
-        <samp>🙏 Namastey! I am
-                <b><a target="_blank" href="">Rasel Bajracharya</a></b>
+        <samp>&gt; 🙏 Namastey! I am
+                <b><a target="_blank" href="">Rasel Bajracharya</a></b> &lt;
         </samp>
 </h3>
 
