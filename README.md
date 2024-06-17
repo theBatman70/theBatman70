@@ -21,7 +21,7 @@
           <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"/>
           <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/> 
     <br><br>
-💬 Ask me about <i>Flutter, Dart, SQL, React, Firebase API</i><br>
+💬 Ask me about <i>HTML/CSS/JS, React, Redux, Flutter, Bloc, Provider, Dart, SQL, Firebase API</i><br>
           Let's Connect on Discord: @thebatman2940 🤙 <br><br>
     <a href="https://www.linkedin.com/in/rasel-bajracharya-903baa285/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
