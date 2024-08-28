@@ -7,7 +7,7 @@
 
 <p>
   <samp>
-    🌱 Currently learning <b>Flutter & Dart | React</b><br>
+    🌱 Web and Mobile App Developer
     👯 Looking to collaborate on <b> Mobile App 📱</b> and <b>Web Projects </b> 🌐 ✌️ <br><br>
     ⚙️ I know: <br><br>
           <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/> 
